@@ -10,6 +10,16 @@
       "StackName": "amplify-amplify6456db54c8504-staging-202057",
       "StackId": "arn:aws:cloudformation:us-east-1:652146672362:stack/amplify-amplify6456db54c8504-staging-202057/387f84c0-c9b8-11ed-a254-0acf179bbdb3",
       "AmplifyAppId": "d3hswc9oah5yvv"
+    },
+    "categories": {
+      "auth": {
+        "wusamplify": {
+          "userPoolId": "us-east-1_piNOXga9I",
+          "userPoolName": "wake-up-safe-users",
+          "webClientId": "6lj3o8i3gov97hrh3p9mchcj02",
+          "nativeClientId": "6lj3o8i3gov97hrh3p9mchcj02"
+        }
+      }
     }
   }
 }
